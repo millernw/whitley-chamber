@@ -1,5 +1,5 @@
 # 03 — Technical Specs
-## Whitley County Chamber of Commerce
+## The Chamber of Whitley County
 > Use this file when scaffolding the project, setting up integrations, or making architecture decisions.
 > Paste this alongside 00-master-prompt.md at the start of any technical build session.
 
@@ -21,6 +21,13 @@
 - **Hosting target:** GoHighLevel (native platform hosting)
 - **Custom domain:** Yes — whitleychamber.org (confirm DNS transfer/setup with Chamber)
 - **Environment:** Static marketing pages with GoHighLevel form and CMS integration — no separate backend needed at launch
+
+**Brand assets & icons (from the Open Door package in `/assets`):**
+- **Favicon:** `favicon.ico` (also expose `Open_Door_Brand_Icon_48x48.png`)
+- **Apple touch icon:** `Open_Door_Brand_Icon_180x180.png`
+- **Android/PWA icons:** `Open_Door_Brand_Icon_192x192.png` and `Open_Door_Brand_Icon_512x512.png`
+- **Social / Open Graph image:** `Open_Door_Brand_Social_Profile_Navy.png`
+- **Header logo:** `Open_Door_Brand_Full_Logo_Transparent.png` / `.svg`; white version `Open_Door_Brand_Full_Logo_White.png` for navy backgrounds
 
 ---
 
@@ -76,7 +83,7 @@
 - **Google Search Console:** Connect and verify at launch [CONFIRM with client]
 
 **Local SEO priorities:**
-- Page titles and meta descriptions must include "Whitley County," "Columbia City, Indiana," and "Chamber of Commerce"
+- Page titles and meta descriptions should include "The Chamber of Whitley County" (display brand) plus "Columbia City, Indiana"; also include the legal name "Whitley County Chamber of Commerce" where natural (meta description, Organization schema) so it still ranks for the legacy search term
 - About page and footer must include full NAP (Name, Address, Phone) consistently
 - Google Business Profile must be claimed, verified, and consistent with site data [CONFIRM status with Chamber]
 
@@ -87,7 +94,7 @@
 - **Minimum browser support:** Last 2 versions of Chrome, Firefox, Safari, Edge
 - **Mobile-first:** Yes — design and build mobile breakpoints first
 - **Accessibility target:** WCAG AA — this is a public civic organization; accessibility is important
-  - Sufficient color contrast on all text/background combinations (verify navy on cream, amber on navy)
+  - Sufficient color contrast on all text/background combinations (verify navy `#082F5B` on white, white on navy, and brick red `#B32120` on white — all meet WCAG AA for their text sizes; avoid brick red on navy for text)
   - All images have descriptive alt text
   - Form fields have visible labels
   - Keyboard navigation works throughout

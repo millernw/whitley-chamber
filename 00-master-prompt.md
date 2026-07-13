@@ -1,5 +1,5 @@
 # 00 — Master Prompt
-## Whitley County Chamber of Commerce
+## The Chamber of Whitley County
 > Paste this entire file at the start of every AI coding session in GoHighLevel AI Studio.
 > Detail lives in files 01–04. Reference them by name when working on specific sections.
 
@@ -7,8 +7,10 @@
 
 ## Project Identity
 
-- **Project name:** Whitley County Chamber of Commerce
-- **Tagline / one-liner:** "You Shouldn't Have to Build It Alone." — A membership organization connecting small business owners in Whitley County, Indiana to their community, their customers, and each other.
+- **Project name (display brand):** The Chamber of Whitley County
+- **Legal name:** Whitley County Chamber of Commerce — use only in the footer, legal/copyright lines, and official/schema references. Everywhere else, use the display brand "The Chamber of Whitley County."
+- **Brand tagline:** "Opening Doors to Whitley County" — the official Open Door brand tagline; pairs with the logo lockup and appears in the footer/hero.
+- **One-liner:** A membership organization connecting small business owners in Whitley County, Indiana to their community, their customers, and each other.
 - **Project type:** Marketing landing page / membership conversion site
 - **Primary goal:** Convert non-member small business owners into paying Chamber members by making them feel seen, welcomed, and convinced that membership is worth every dollar.
 - **Success metric:** Completed membership applications submitted through the join form
@@ -33,9 +35,9 @@
 
 ## Assets
 
-- **Logo:** Pull from existing site at whitleychamber.org — modernize usage context, do not replicate old site visual style
-- **Photography:** Use open-source/public domain photos of Whitley County, Columbia City, Churubusco, and South Whitley, Indiana. Fill gaps with Unsplash imagery of small Midwest towns, local business owners, community events, and Northeast Indiana landscapes. Avoid generic coastal or urban stock imagery.
-- **Brand colors:** Do NOT replicate the existing website palette. Use the palette defined in 02-design-direction.md.
+- **Logo:** Use the official **Open Door brand** logo package in `/assets`. Primary lockup for the site header: `Open_Door_Brand_Full_Logo_Transparent.png` (or `.svg`). Icon/mark for favicon and compact spaces: `Open_Door_Brand_Icon_512x512.png` / `favicon.ico`. On navy backgrounds, use `Open_Door_Brand_Full_Logo_White.png`. The mark is an open red doorway with a navy door and a white path leading through it — keep proportions unchanged, do not recolor or redraw it.
+- **Photography:** Use open-source/public domain photos of Whitley County, Columbia City, Churubusco, South Whitley, and Larwill, Indiana. Fill gaps with Unsplash imagery of small Midwest towns, local business owners, community events, and Northeast Indiana landscapes. Favor clean, bright, natural light — not heavily warm/amber-graded. Avoid generic coastal or urban stock imagery.
+- **Brand colors:** Use the official Open Door palette — Navy `#082F5B`, Brick Red `#B32120`, White `#FFFFFF` — as defined in full in 02-design-direction.md. Do NOT replicate the old amber/forest-green palette or the existing website's colors.
 
 ---
 

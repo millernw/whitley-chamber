@@ -1,5 +1,5 @@
 # 01 — Content & Copy
-## Whitley County Chamber of Commerce
+## The Chamber of Whitley County
 > Use this file when building any section that contains text.
 > Paste this alongside 00-master-prompt.md when working on copy-heavy sections.
 
@@ -42,11 +42,12 @@ A government brochure. A generic "join us and grow" pitch. An organization talki
 
 ## Hero Section
 
+- **Eyebrow (tagline lockup):** Opening Doors to Whitley County *(wide-tracked uppercase, per 02 tagline treatment)*
 - **Headline:** You Shouldn't Have to Build It Alone.
 - **Subheadline:** Whitley County's small business owners are stronger together. The Chamber connects you to the people, opportunities, and community that help your business grow — right here, where you live and work.
 - **Primary CTA button:** Join the Chamber Today
 - **Secondary CTA:** See Member Benefits
-- **Hero visual description:** Full-bleed photography of a recognizable Whitley County scene — Columbia City courthouse square, a local main street storefront, or a community gathering. Warm, golden-hour light if possible. People present — real, candid, not posed stock imagery. The image should feel like home.
+- **Hero visual description:** Full-bleed photography of a recognizable Whitley County scene — Columbia City courthouse square, a local main street storefront, or a community gathering. Clean, bright, natural light — true-to-life, not warm/sepia-graded. People present — real, candid, not posed stock imagery. A navy-to-transparent gradient overlay anchors the headline and keeps copy legible. Where a scene fits, favor a storefront doorway or a path/street leading into frame — an echo of the open-door motif.
 
 ---
 
@@ -190,6 +191,6 @@ This is a new chapter for the Chamber — and we're inviting Whitley County's bu
 
 ## SEO & Meta
 
-- **Home page title tag:** Whitley County Chamber of Commerce — Join Today | Columbia City, Indiana
-- **Meta description:** Connect, grow, and belong. The Whitley County Chamber of Commerce connects local business owners to their community. Memberships start at $85/year.
-- **OG image description:** A warm, full-bleed photo of Columbia City or Whitley County main street with the Chamber logo and tagline "You Shouldn't Have to Build It Alone." overlaid in bold typography on a deep navy or amber background.
+- **Home page title tag:** The Chamber of Whitley County — Join Today | Columbia City, Indiana *(display brand leads; the legal name "Whitley County Chamber of Commerce" carries the SEO weight in the meta description below and in Organization schema)*
+- **Meta description:** Connect, grow, and belong. The Chamber of Whitley County (Whitley County Chamber of Commerce) connects local business owners to their community. Memberships start at $85/year.
+- **OG image description:** A clean, full-bleed photo of Columbia City or a Whitley County main street with the Open Door logo and the tagline "Opening Doors to Whitley County" overlaid in bold typography, on a deep navy background with a brick-red accent. True-to-life light, no warm/sepia grade.
